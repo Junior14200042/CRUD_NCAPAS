@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.exe
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.deps.json
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\LENOVO\source\repos\CRUD_NCAPAS\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.genruntimeconfig.cache
